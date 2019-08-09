@@ -1,1 +1,5 @@
-source "techpack/data/drivers/Kconfig"
+menu "Qualcomm RmNet Extensions"
+
+source "techpack/data/rmnet/Kconfig"
+
+endmenu
